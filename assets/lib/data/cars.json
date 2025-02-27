@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Ferrari SF90",
+      "maxFuel": 110.0,
+      "fuelPerMinute": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Mercedes W12",
+      "maxFuel": 105.0,
+      "fuelPerMinute": 3.2
+    },
+    {
+      "id": 3,
+      "name": "Red Bull RB18",
+      "maxFuel": 108.0,
+      "fuelPerMinute": 3.4
+    }
+  ]
+  
